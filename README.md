@@ -1,4 +1,14 @@
-## Hi there 👋
+# Why hectorgrey?
+
+The username comes from two sources - I'm a fan of fantasy, and I also like some of Steven King's novels.
+hector comes from the name of King Arthur's foster father, Sir Hector (or Ector as it was spelled when La
+Morte d'Arthur was being written), while grey comes from the name of the monster in Steven King's
+Dreamcatcher - Mr. Grey (which was probably spelled Gray in the book, but it's a long time since I read it
+and I prefer the British spelling).
+
+- 🔭 I’m currently working on a line editor based on edlin and a terminal web browser
+- 🌱 I’m currently learning (slowly but surely) how the FreeBSD codebase works
+- 😄 Pronouns: He/Him
 
 <!--
 **hectorgrey/hectorgrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
