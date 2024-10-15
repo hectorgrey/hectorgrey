@@ -6,7 +6,6 @@ Morte d'Arthur was being written), while grey comes from the name of the monster
 Dreamcatcher - Mr. Grey (which was probably spelled Gray in the book, but it's a long time since I read it
 and I prefer the British spelling).
 
-- 🔭 I’m currently working on a line editor based on edlin and a terminal web browser
 - 🌱 I’m currently learning (slowly but surely) how the FreeBSD codebase works
 - 😄 Pronouns: He/Him
 
